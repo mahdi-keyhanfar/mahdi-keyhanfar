@@ -1,17 +1,14 @@
 ## 👋 Hi there, I'm Mahdi
-[![Mahdi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mahdi-keyhanfar&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![B&W Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahdi-keyhanfar&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<h3 align="center">A passionate backend developer from Iran</h3>
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=mahdi-keyhanfar&label=Profile%20views&color=0e75b6&style=flat" alt="mahdi-keyhanfar" /> 
-</p>
+### 🧠 About Me
+I'm a **Python developer** passionate about **Artificial Intelligence**.  
+I love building smart systems using **Machine Learning**, **Deep Learning**, and **Data Science**.
+and I make **App and Program** with Python
 
 - 🔭 I’m currently working on **Complete personal app**
 - 🌱 I’m currently learning **Python and AI**
 - 📫 How to reach me **mahdiknfr@gmail.com**
-
----
 
 ### 📬 Connect with me:
 <!-- می‌تونی لینک شبکه‌های اجتماعی اینجا اضافه کنی -->
