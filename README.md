@@ -1,5 +1,6 @@
 ## 👋 Hi there, I'm Mahdi
-<img  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+![My Banner](https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif)
+
 
 <h3 align="center">A passionate backend developer from Iran</h3>
 
