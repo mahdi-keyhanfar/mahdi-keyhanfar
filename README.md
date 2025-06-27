@@ -2,7 +2,7 @@
 [![B&W Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahdi-keyhanfar&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 🧠 About Me
-I'm a **Python developer** passionate about **Artificial Intelligence**.  
+I'm a **Python developer** passionate about **Artificial Intelligence**.
 I love building smart systems using **Machine Learning**, **Deep Learning**, and **Data Science**.
 and I make **App and Program** with Python
 
