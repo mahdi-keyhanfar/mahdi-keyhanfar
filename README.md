@@ -1,21 +1,27 @@
 ## 👋 Hi there, I'm Mahdi
 [![B&W Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahdi-keyhanfar&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### 🧠 About Me
+## 🧠 About Me
 I'm a **Python developer** passionate about **Artificial Intelligence** 🤖  
 I love building smart systems using **Machine Learning** 🧠, **Deep Learning** 🧬, and **Data Science** 📊  
 I also make **Apps and Programs** with Python 🐍
 
-- 🔭 I’m currently working on **Complete personal app**
-- 🌱 I’m currently learning **Python and AI**
-- 📫 How to reach me **mahdiknfr@gmail.com**
+```python
+def get_profile():
+    return {
+        "fullName": "Mahdi KeyhanFar",
+        "birthDay": "2008 March 25, Tuesday",
+        "hobbies": ["Coding", "Book", "AI", "Game", "Chess"],
+        "languages": [".py", ".c"],
+        "quote": "Simple Code Solves Complex Rroblems.",
+        "currently": "Learning CustomTkinter and Telebot"
+    }
 
-### 📬 Connect with me:
-<!-- می‌تونی لینک شبکه‌های اجتماعی اینجا اضافه کنی -->
+profile = get_profile()
+print(profile)
+```
 
----
-
-### 🛠️ Languages and Tools:
+## 🛠️ Languages and Tools:
 <p align="left">
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
