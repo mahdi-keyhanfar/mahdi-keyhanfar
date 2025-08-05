@@ -38,7 +38,7 @@ print(profile)
 ## 📊 GitHub Stats:
 ![Mahdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdi-keyhanfar&show_icons=true&theme=dracula&hide_border=true)
 
-<img src="https://d3frb2mbny706b.cloudfront.net/<mahdi-keyhanfar>" width="600">
+<img src="https://d3frb2mbny706b.cloudfront.net/mahdi-keyhanfar" width="600">
 
 ## 📫 How to reach me
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
