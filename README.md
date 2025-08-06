@@ -45,7 +45,6 @@ print(profile)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahdi-keyhanfar-67ba89328)
 
 ---
-
 Thanks for visiting! 😊
 
 ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=mahdi-keyhanfar)
