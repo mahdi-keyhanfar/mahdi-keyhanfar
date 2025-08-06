@@ -13,7 +13,7 @@ def get_profile():
         "birthDay": "2008 March 25, Tuesday",
         "hobbies": ["Coding", "Book", "AI", "Game", "Chess"],
         "languages": [".py", ".c"],
-        "quote": "Simple Code Solves Complex Rroblems.",
+        "quote": "Simple Code Solves Complex Problems.",
         "currently": "Learning CustomTkinter and Telebot"
     }
 
