@@ -12,7 +12,7 @@ def get_profile():
         "fullName": "Mahdi KeyhanFar",
         "birthDay": "2008 March 25, Tuesday",
         "hobbies": ["Coding", "Book", "AI", "Game", "Chess"],
-        "languages": [".py", ".c"],
+        "languages": [".py"],
         "quote": "Simple Code Solves Complex Problems.",
         "currently": "Learning CustomTkinter and Telebot"
     }
