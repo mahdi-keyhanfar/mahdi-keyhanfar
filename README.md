@@ -25,7 +25,6 @@ print(profile)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
 ## 📚 Libraries & Frameworks
 ![Telebot](https://img.shields.io/badge/Telebot-2CA5E0?style=flat&logo=telegram&logoColor=white)
