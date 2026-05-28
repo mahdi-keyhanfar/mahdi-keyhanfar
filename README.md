@@ -29,7 +29,6 @@ print(profile)
 ## 📚 Libraries & Frameworks
 ![Telebot](https://img.shields.io/badge/Telebot-2CA5E0?style=flat&logo=telegram&logoColor=white)
 ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-4C9EFF?style=flat&logo=python&logoColor=white)
-![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=flat&logo=qt&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
 
