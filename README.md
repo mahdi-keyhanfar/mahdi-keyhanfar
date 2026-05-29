@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Mahdi Keyhanfar
 
-![snake gif](https://raw.githubusercontent.com/mahdi-keyhanfar/mahdi-keyhanfar/output/github-snake.svg)
+![snake gif](https://raw.githubusercontent.com/mahdi-keyhanfar/mahdi-keyhanfar/output/github-contribution-grid-snake.svg)
 
 ## 🧠 About Me
 I'm a Python developer passionate about Artificial Intelligence 🤖  
