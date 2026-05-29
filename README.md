@@ -1,8 +1,6 @@
 ## 👋 Hi, I'm Mahdi Keyhanfar
 
 
----
-
 ## 🧠 About Me
 I'm a Python developer passionate about Artificial Intelligence 🤖  
 I build applications and automation tools using Python 🐍  
