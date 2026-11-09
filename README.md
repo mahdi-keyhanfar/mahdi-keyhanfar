@@ -21,7 +21,7 @@ class Mahdi:
 
         self.languages = ["Python"]
 
-        self.learning = ["AI Engineering", "Linux"]
+        self.learning = ["AI Engineering", "Linux", "Django"]
 
         self.tools = ["Git", "GitHub", "VS Code"]
 
